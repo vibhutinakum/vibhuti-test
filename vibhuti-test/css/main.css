@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+
+@import "bootstrap.min.css";
+@import "swiper.css";
+@import "../fonts/fonts.css";
+@import "reset.css";
+@import "form-element.css";
+@import "comman-block.css";
+@import "style.css";
+@import "media.css";
